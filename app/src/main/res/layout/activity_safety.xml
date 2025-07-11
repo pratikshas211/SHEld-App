@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:background="@color/white">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Safety Tips for Girls When Traveling Alone"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:paddingBottom="10dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="1. Be Aware of Your Surroundings\n- Stay alert and avoid distractions like texting or headphones.\n- Keep an eye out for suspicious behavior."
+            android:textSize="16sp"
+            android:textColor="@color/black"
+            android:paddingBottom="10dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="2. Share Your Location\n- Always share your live location with a trusted contact.\n- Inform someone about your destination and estimated arrival time."
+            android:textSize="16sp"
+            android:textColor="@color/black"
+            android:paddingBottom="10dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="3. Avoid Isolated and Unlit Areas\n- Prefer well-lit, crowded routes over shortcuts.\n- Stay close to public spaces like shops and cafes."
+            android:textSize="16sp"
+            android:textColor="@color/black"
+            android:paddingBottom="10dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="4. Carry a Personal Safety Tool\n- Carry pepper spray, a flashlight, or a safety alarm.\n- Keep keys in hand when walking alone at night."
+            android:textSize="16sp"
+            android:textColor="@color/black"
+            android:paddingBottom="10dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="5. Use Safe and Verified Transport\n- Use trusted ride-hailing services and verify the driver.\n- Share ride details with a trusted contact."
+            android:textSize="16sp"
+            android:textColor="@color/black"
+            android:paddingBottom="10dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="6. Be Cautious with Strangers\n- Avoid giving personal information to strangers.\n- Move to a public area if someone makes you uncomfortable."
+            android:textSize="16sp"
+            android:textColor="@color/black"
+            android:paddingBottom="10dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="7. Keep Your Phone Fully Charged\n- Ensure your phone is fully charged before leaving.\n- Carry a power bank for emergencies."
+            android:textSize="16sp"
+            android:textColor="@color/black"
+            android:paddingBottom="10dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="8. Learn Basic Self-Defense Moves\n- Take a self-defense class.\n- Aim for sensitive areas if attacked."
+            android:textSize="16sp"
+            android:textColor="@color/black"
+            android:paddingBottom="10dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="9. Avoid Over-sharing on Social Media\n- Don’t share your live location publicly.\n- Be mindful of real-time updates."
+            android:textSize="16sp"
+            android:textColor="@color/black"
+            android:paddingBottom="10dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="10. Trust Your Instincts and Take Action\n- Leave immediately if something doesn’t feel right.\n- Call emergency numbers if you feel unsafe."
+            android:textSize="16sp"
+            android:textColor="@color/black"
+            android:paddingBottom="20dp" />
+    </LinearLayout>
+</ScrollView>
